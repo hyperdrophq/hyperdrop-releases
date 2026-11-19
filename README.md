@@ -11,11 +11,11 @@ where the apps download and update from. The server is open source at
 
 | Build | On the site |
 |---|---|
-| [HyperDrop for Mac 1.8.3 (69)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/mac-1.8.3-69) | [gethyperdrop.com/downloads/macos/](https://gethyperdrop.com/downloads/macos/) |
-| [HyperDrop for Windows 1.8.3 (52)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/windows-1.8.3-52) | [gethyperdrop.com/downloads/windows/](https://gethyperdrop.com/downloads/windows/) |
-| [HyperDrop for Linux 1.8.2 (47)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/linux-1.8.2-47) | [gethyperdrop.com/downloads/linux/](https://gethyperdrop.com/downloads/linux/) |
+| [HyperDrop for Mac 1.8.4 (70)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/mac-1.8.4-70) | [gethyperdrop.com/downloads/macos/](https://gethyperdrop.com/downloads/macos/) |
+| [HyperDrop for Windows 1.8.4 (53)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/windows-1.8.4-53) | [gethyperdrop.com/downloads/windows/](https://gethyperdrop.com/downloads/windows/) |
+| [HyperDrop for Linux 1.8.3 (48)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/linux-1.8.3-48) | [gethyperdrop.com/downloads/linux/](https://gethyperdrop.com/downloads/linux/) |
 | [HyperDrop for Android 1.8.0 (31)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/android-1.8.0-31) | [gethyperdrop.com/downloads/android/](https://gethyperdrop.com/downloads/android/) |
-| [HyperDrop command line 1.8.2-1](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/cli-1.8.2-1) | [gethyperdrop.com/downloads/cli/](https://gethyperdrop.com/downloads/cli/) |
+| [HyperDrop command line 1.8.3-1](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/cli-1.8.3-1) | [gethyperdrop.com/downloads/cli/](https://gethyperdrop.com/downloads/cli/) |
 | [Server Management 1.6.3 (25)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/server-management-1.6.3-25) | [gethyperdrop.com/downloads/server-management/](https://gethyperdrop.com/downloads/server-management/) |
 | [Media extension 1.2.0 (7)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/media-extension-1.2.0-7) | [gethyperdrop.com/extensions/media/](https://gethyperdrop.com/extensions/media/) |
 | [Screencast extension 1.1.6 (11)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screencast-extension-1.1.6-11) | [gethyperdrop.com/extensions/screencast/](https://gethyperdrop.com/extensions/screencast/) |

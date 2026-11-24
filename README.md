@@ -18,6 +18,7 @@ where the apps download and update from. The server is open source at
 | [HyperDrop command line 1.8.4-1](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/cli-1.8.4-1) | [gethyperdrop.com/downloads/cli/](https://gethyperdrop.com/downloads/cli/) |
 | [Server Management 1.7.1 (27)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/server-management-1.7.1-27) | [gethyperdrop.com/downloads/server-management/](https://gethyperdrop.com/downloads/server-management/) |
 | [Media extension 1.2.0 (7)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/media-extension-1.2.0-7) | [gethyperdrop.com/extensions/media/](https://gethyperdrop.com/extensions/media/) |
+| [Media extension 1.2.1 (8)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/media-extension-1.2.1-8) | [gethyperdrop.com/extensions/media/](https://gethyperdrop.com/extensions/media/) |
 | [Screencast extension 1.1.8 (13)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screencast-extension-1.1.8-13) | [gethyperdrop.com/extensions/screencast/](https://gethyperdrop.com/extensions/screencast/) |
 | [Screenshot extension 1.1.6 (8)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screenshot-extension-1.1.6-8) | [gethyperdrop.com/extensions/screenshot/](https://gethyperdrop.com/extensions/screenshot/) |
 | [Screenshot extension 1.1.7 (9)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screenshot-extension-1.1.7-9) | [gethyperdrop.com/extensions/screenshot/](https://gethyperdrop.com/extensions/screenshot/) |

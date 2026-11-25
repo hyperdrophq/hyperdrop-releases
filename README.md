@@ -21,3 +21,4 @@ where the apps download and update from. The server is open source at
 | [Screencast extension 1.1.8 (13)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screencast-extension-1.1.8-13) | [gethyperdrop.com/extensions/screencast/](https://gethyperdrop.com/extensions/screencast/) |
 | [Screenshot extension 1.1.6 (8)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screenshot-extension-1.1.6-8) | [gethyperdrop.com/extensions/screenshot/](https://gethyperdrop.com/extensions/screenshot/) |
 | [Screenshot extension 1.1.7 (9)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screenshot-extension-1.1.7-9) | [gethyperdrop.com/extensions/screenshot/](https://gethyperdrop.com/extensions/screenshot/) |
+| [Screenshot extension 1.2.0 (10)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/screenshot-extension-1.2.0-10) | [gethyperdrop.com/extensions/screenshot/](https://gethyperdrop.com/extensions/screenshot/) |

@@ -14,7 +14,7 @@ where the apps download and update from. The server is open source at
 | [HyperDrop for Mac 1.8.12 (77)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/mac-1.8.12-77) | [gethyperdrop.com/downloads/macos/](https://gethyperdrop.com/downloads/macos/) |
 | [HyperDrop for Windows 1.8.12 (61)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/windows-1.8.12-61) | [gethyperdrop.com/downloads/windows/](https://gethyperdrop.com/downloads/windows/) |
 | [HyperDrop for Linux 1.8.12 (54)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/linux-1.8.12-54) | [gethyperdrop.com/downloads/linux/](https://gethyperdrop.com/downloads/linux/) |
-| [HyperDrop for Android 1.8.1 (32)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/android-1.8.1-32) | [gethyperdrop.com/downloads/android/](https://gethyperdrop.com/downloads/android/) |
+| [HyperDrop for Android 1.8.2 (33)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/android-1.8.2-33) | [gethyperdrop.com/downloads/android/](https://gethyperdrop.com/downloads/android/) |
 | [HyperDrop command line 1.8.5-1](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/cli-1.8.5-1) | [gethyperdrop.com/downloads/cli/](https://gethyperdrop.com/downloads/cli/) |
 | [Server Management 1.7.1 (27)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/server-management-1.7.1-27) | [gethyperdrop.com/downloads/server-management/](https://gethyperdrop.com/downloads/server-management/) |
 | [Media extension 1.4.0 (10)](https://github.com/hyperdrophq/hyperdrop-releases/releases/tag/media-extension-1.4.0-10) | [gethyperdrop.com/extensions/media/](https://gethyperdrop.com/extensions/media/) |
